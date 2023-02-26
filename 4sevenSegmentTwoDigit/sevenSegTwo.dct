@@ -247,7 +247,7 @@ intf_bit
 irp
 irp_bit
 j
-l
+k
 longint2double
 longword2double
 main
@@ -460,7 +460,7 @@ rx9d_bit
 s
 s_bit
 sdiv3232l
-segment
+seg
 sen
 sen_bit
 setfdz32

@@ -1,12 +1,11 @@
-0	1	mikroCPIC1618.exe -MSF -DBG -pP16F877A -DL -O11111114 -fo8 -N"C:\Users\ACT\Desktop\microc_lab\4sevenSegmentTwoDigit\sevenSegTwo.mcppi" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Uses\P16\" -SP"C:\Users\ACT\Desktop\microc_lab\4sevenSegmentTwoDigit\" "sevenSegTwo.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl"	 
+0	1	mikroCPIC1618.exe -MSF -DBG -pP16F877A -DL -O11111114 -fo8 -N"C:\Users\Masud Rana\Desktop\microc_lab\4sevenSegmentTwoDigit\sevenSegTwo.mcppi" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Uses\P16\" -SP"C:\Users\Masud Rana\Desktop\microc_lab\4sevenSegmentTwoDigit\" -IP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Uses\P16\" "sevenSegTwo.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl"	 
 hint: 0	1139	Available RAM: 352 [bytes], Available ROM: 8192 [bytes]	 
-diagnostics: 0	126	All files Preprocessed in 312 ms	 
 diagnostics: 0	122	Compilation Started	sevenSegTwo.c
-diagnostics: 27	123	Compiled Successfully	sevenSegTwo.c
-diagnostics: 0	127	All files Compiled in 188 ms	 
-hint: 0	1144	Used RAM (bytes): 15 (4%)  Free RAM (bytes): 337 (96%)	Used RAM (bytes): 15 (4%)  Free RAM (bytes): 337 (96%)
-hint: 0	1144	Used ROM (program words): 293 (4%)  Free ROM (program words): 7899 (96%)	Used ROM (program words): 293 (4%)  Free ROM (program words): 7899 (96%)
+diagnostics: 35	123	Compiled Successfully	sevenSegTwo.c
+diagnostics: 0	127	All files Compiled in 110 ms	 
+hint: 0	1144	Used RAM (bytes): 16 (5%)  Free RAM (bytes): 336 (95%)	Used RAM (bytes): 16 (5%)  Free RAM (bytes): 336 (95%)
+hint: 0	1144	Used ROM (program words): 361 (4%)  Free ROM (program words): 7831 (96%)	Used ROM (program words): 361 (4%)  Free ROM (program words): 7831 (96%)
 diagnostics: 0	125	Project Linked Successfully	sevenSegTwo.mcppi
-diagnostics: 0	128	Linked in 171 ms	 
-diagnostics: 0	129	Project 'sevenSegTwo.mcppi' completed: 687 ms	 
-diagnostics: 0	103	Finished successfully: 25 Feb 2023, 22:22:24	sevenSegTwo.mcppi
+diagnostics: 0	128	Linked in 31 ms	 
+diagnostics: 0	129	Project 'sevenSegTwo.mcppi' completed: 156 ms	 
+diagnostics: 0	103	Finished successfully: 26 Feb 2023, 19:41:24	sevenSegTwo.mcppi
