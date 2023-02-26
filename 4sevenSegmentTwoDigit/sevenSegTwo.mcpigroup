@@ -1,0 +1,6 @@
+[PROJECTS]
+Count=2
+Project0=..\3adc\adc.mcppi
+Project1=sevenSegTwo.mcppi
+[ActiveProject]
+Index=1
