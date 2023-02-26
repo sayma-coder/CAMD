@@ -1,0 +1,7 @@
+[PROJECTS]
+Count=3
+Project0=..\ledBlinking\led.mcppi
+Project1=..\2sevensegment\sevenSegment.mcppi
+Project2=adc.mcppi
+[ActiveProject]
+Index=2
